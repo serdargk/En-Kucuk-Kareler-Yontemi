@@ -23,7 +23,7 @@ y=ax^b gibi üstel fonksiyolarda eğri modellemek için her iki tarafın doğal 
 lny=lna+blnx formuna dönüşür.
 Bu ise aynı şekilde lny=u, ve lna=v ve lnx=w yazılırsa doğrusal denkleme dönüşebilir.Sonuç olarak
 u=+bw formatına formatına dönüşür.Toplam hataların karelerinin toplamı v ve b ye göre türevleri alınırsa matris formatındaki denklem çözülerek v ve b bulunur.
-# Logaritmik (y=a=+blnx) Fonksiyonlar
+# Logaritmik (y=a+blnx) Fonksiyonlar
 Logaritmik fonksiyonlar diğer üs ve üstel fonksiyonlarda olduğu gibi verilen y=a+blnx fonksiyonu doğrusal fonksiyon formatına dönüştürülerek yapılabilir.Bunun için lnx yerine 
 w yazılırsa y=a+bw dorusal fonksiyon elde edilir.Bu doğrusal fonksiyona göre hataların karelerinin toplamlarının türevleri alınarak katsayılar bulunur.
 # Uyum Kontrolü
