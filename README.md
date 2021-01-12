@@ -5,9 +5,13 @@ Eğri modelleme için kullanılan en popüler metod küçük karaler metodudur. 
 Fonksiyonun Derecesine ve ve türüne  göre modellen yaklaşık fonksiyon belirlenir.
 Bu çalışma da fonksiyonun derecesi ve türlerine göre en küçük kareler yöntemini kullanarak matlab programında  modellenen yaklaşık fonksiyonu elde edildi.
 # Sıfırıncı Dereceden Fonksiyon Belirleme
+Elde edilmiş n tane (x,y) verisi için en küçük kareler yöntemi kullanılarak g(x)=a şeklinde sıfırcı dereceden(sabit) fonksiyonun elde edilmesidir.
 # Birinci Derecden Fonksiyon Belirleme
+Elde edilmiş n tane (x,y) verisi için en küçük kareler yöntemi kullanılarak g(x)=a+bx şeklinde birinci dereceden  fonksiyonun elde edilmesidir.
 # İkinci Dereceden Fonksiyon Belirleme
+Elde edilmiş n tane (x,y) verisi için en küçük kareler yöntemi kullanılarak g(x)=a+bx+c*x^2 şeklinde ikinci dereceden  fonksiyonun elde edilmesidir.
 # Yüksek Dereceden Fonksiyon Belirleme
+
 # Üslü(e^x) Fonksiyonlar
 # Üstel(a*x^b) Fonksiyonlar
 # Logaritmik (y=a=+blnx) Fonksiyonlar
